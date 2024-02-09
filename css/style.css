@@ -40,15 +40,15 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
-    width: 56px;
-    height: 56px;
+    width: 67px;
+    height: 55px;
     cursor: pointer;
 }
 .search button img{
     display: flex;
     padding: 14px;
-    height: 47px;
-    width: 54px;
+    height: 55px;
+    width: 50px;
 }
 .weather-icon{
     width: 170px;
